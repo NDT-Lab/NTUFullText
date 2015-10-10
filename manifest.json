@@ -1,0 +1,23 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon_3_48.png",
+      "default_title": "NTU Full Text",
+      "name": "NTU Full Text Plugin"
+   },
+   "description": "A plugin allows NTU staff and students to seamlessly retrieve full text from the Internet.",
+   "icons": {
+      "128": "icon_3_128.png",
+      "16": "icon_3_16.png",
+      "48": "icon_3_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1nbOojMS003Egg7E6lOowAOf8rHnYT83BQjTqGQYYAF5BAYwSZEgj4ePCfe6bkx/qC8EACehbHRQqlptY85FtKDtteEOj/BEWLps5ILMh+CSMiUcUgHG8t9r4nhI8Abfw5JsTCULGsbRsBMJ1/xQApFIoiE63QwGz2RM6l0kCuat6UTKUPYm9t0vCUGkS4C5A3VVfXBX2HWkwrr73N0DLsMd3AhOKLi9fb9QIqPjwDTlTRXV/BrPPM5KtW7gNFDqflCiNeKcpCllMZKqyJgBIW1FDZxYQW2ZVdGTCH5X795DWGMWMRflUhZyvlK8ZkcKi1nFq6TMX/Y8trkUU9yuOwIDAQAB",
+   "manifest_version": 2,
+   "name": "NTU Full Text",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.3.0"
+}
