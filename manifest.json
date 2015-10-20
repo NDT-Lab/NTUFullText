@@ -8,7 +8,7 @@
       "default_title": "NTU Full Text",
       "name": "NTU Full Text Plugin"
    },
-   "description": "A plugin allows NTU staff and students to seamlessly retrieve full text.",
+   "description": "A plugin allows NTU staffs and students to seamlessly retrieve full text.",
    "icons": {
       "128": "icon_128.png",
       "16": "icon_16.png",

@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="ntufull.svg"
-   inkscape:export-filename="C:\ntufull\icon_3_128.png"
-   inkscape:export-xdpi="97.464149"
-   inkscape:export-ydpi="97.464149">
+   inkscape:export-filename="C:\ntufull\icon_384.png"
+   inkscape:export-xdpi="292.39249"
+   inkscape:export-ydpi="292.39249">
   <defs
      id="defs4">
     <filter
@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
