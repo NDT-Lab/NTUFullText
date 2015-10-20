@@ -8,7 +8,7 @@
       "default_title": "NTU Full Text",
       "name": "NTU Full Text Plugin"
    },
-   "description": "A plugin allows NTU staffs and students to seamlessly retrieve full text from the Internet.",
+   "description": "A plugin allows NTU staffs and students to seamlessly retrieve full text.",
    "icons": {
       "128": "icon_128.png",
       "16": "icon_16.png",
@@ -17,7 +17,7 @@
    },
    "manifest_version": 2,
    "name": "NTU Full Text",
-   "permissions": ["http://*/*", "https://*/*" ],
+   "permissions": [ "http://*/*", "https://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.3.0"
 }
