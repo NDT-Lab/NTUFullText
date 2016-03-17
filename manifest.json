@@ -19,5 +19,5 @@
    "name": "NTU Full Text",
    "permissions": [ "http://*/*", "https://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.3.0"
+   "version": "1.5.0"
 }
