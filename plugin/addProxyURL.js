@@ -1,5 +1,5 @@
-var proxy = ".ezlibproxy1.ntu.edu.sg";
+var proxy = "ezlibproxy1.ntu.edu.sg"
+var headurl = "http://ezlibproxy1.ntu.edu.sg/login?url=";
 if (window.location.hostname.indexOf(proxy) == -1) {
-    window.location.href = (("https:" == document.location.protocol) ? " https://" : " http://") +
-        window.location.hostname + proxy + window.location.pathname + window.location.search;
+    window.location.href = headurl + window.location.href;
 }
